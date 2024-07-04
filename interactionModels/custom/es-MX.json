@@ -1,0 +1,99 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hola",
+            "como estás",
+            "di hola mundo",
+            "di hola",
+            "hola mundo"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "descripcionIntent",
+          "samples": [
+            "quiero saber mas informacion especifica de roma",
+            "puedes darme una descripcion de roma",
+            "dame informacion de roma"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "lugaresIntent",
+          "samples": [
+            " lugares turisticos de roma",
+            " sitios turisticos mas famosos",
+            "cuales son los principales lugares turisticos en roma"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "comidaIntent",
+          "samples": [
+            "dime platos tipicos que se pueden comer en roma",
+            "dame  comida tradicional",
+            "dime cuales son platos tradicionales de roma"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "trajeIntent",
+          "samples": [
+            "como es el traje tipico de roma",
+            "dime cual es la vestimenta tradicional de roma",
+            "cual es el traje tradicional de roma"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "personajesIntent",
+          "samples": [
+            "dime los personajes sobresalientes ",
+            "dame informacion sobre personajes",
+            "dime cuales son los personajes famosos de roma"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "musicaIntent",
+          "samples": [
+            "que musica tipica se escucha en roma",
+            "dime cual es la musica tradicional de roma",
+            "cual es la musica tradicional de roma"
+          ]
+        },
+        {
+          "name": "AMAZON.ResumeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.PauseIntent",
+          "samples": []
+        }
+      ],
+      "types": [],
+      "invocationName": "conociendo roma"
+    }
+  }
+}

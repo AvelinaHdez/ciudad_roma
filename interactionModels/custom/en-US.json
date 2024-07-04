@@ -1,0 +1,99 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hola",
+            "como estás",
+            "di hola mundo",
+            "di hola",
+            "hola mundo"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "descripcionIntent",
+          "samples": [
+            "i want to know more specific information about rome",
+            "can you give me a description of rome",
+            "give me information about rome"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "lugaresIntent",
+          "samples": [
+            "tourist places in rome",
+            "most famous tourist sites",
+            "what are the main tourist places in rome"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "comidaIntent",
+          "samples": [
+            "tell me typical dishes that can be eaten in rome",
+            "give me traditional food",
+            "tell me what are traditional dishes of rome"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "trajeIntent",
+          "samples": [
+            "what is the typical costume of Rome",
+            "Tell me what the traditional clothing of Rome is",
+            "What is the traditional costume of Rome"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "personajesIntent",
+          "samples": [
+            "tell me the outstanding characters",
+            "give me information about characters",
+            "tell me who are the famous people of rome"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "musicaIntent",
+          "samples": [
+            "what typical music is heard in rome",
+            "tell me what the traditional music of rome is",
+            "what is the traditional music of rome"
+          ]
+        },
+        {
+          "name": "AMAZON.PauseIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.ResumeIntent",
+          "samples": []
+        }
+      ],
+      "types": [],
+      "invocationName": "knowing rome"
+    }
+  }
+}
